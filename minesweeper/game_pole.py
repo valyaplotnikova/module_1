@@ -59,5 +59,5 @@ class GamePole:
             return True  # Возвращаем True, если клетка уже открыта
         self.pole[y][x].fl_open = True
         if self.pole[y][x].mine:
-            return False  # Вернуть False, если игрок попал на мину
-        return True  # Вернуть True, если клетка открыта успешно
+            return False  # Возвращаем False, если игрок попал на мину
+        return True  # Возвращаем True, если клетка открыта успешно
