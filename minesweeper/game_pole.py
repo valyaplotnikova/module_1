@@ -1,4 +1,3 @@
-import os
 import random
 
 from call import Call

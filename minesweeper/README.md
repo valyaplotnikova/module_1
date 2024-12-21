@@ -9,7 +9,7 @@
 2. Клонируйте репозиторий или загрузите файлы проекта на свой компьютер.
    
    ```bash
-   git clone https://github.com/yourusername/minesweeper.git
+   git clone https://github.com/valyaplotnikova/module_1.git
    cd minesweeper
    ```
 3. Запустите игру с помощью следующей команды:
